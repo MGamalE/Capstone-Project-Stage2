@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChattingMe</string>
+    <string name="userName">Name</string>
+    <string name="send">Send</string>
+    <string name="message">Message</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="add_widget">Add widget</string>
+    <string name="image_description">pick your image</string>
+    <string name="btn_description">send button</string>
+    <string name="img_decription">chat image</string>
+    <string name="photo_action">Complete action using</string>
+    <string name="sign_in">Sign In Successfully</string>
+    <string name="msign_out">Sign Out</string>
+    <string name="widget_added">Widget has been added!</string>
+    <string name="chatting_me">Chatting Me</string>
+</resources>

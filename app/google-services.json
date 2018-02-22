@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "498288213701",
+    "firebase_url": "https://chatting-me.firebaseio.com",
+    "project_id": "chatting-me",
+    "storage_bucket": "chatting-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498288213701:android:a505f78694c6214f",
+        "android_client_info": {
+          "package_name": "com.google.capstone.udacity.chattingme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498288213701-hbei61jrhhjfvmtjumlbbsev7nje70o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU2kOBqi0jFeorCsIPyGNt2yajuJfEE6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

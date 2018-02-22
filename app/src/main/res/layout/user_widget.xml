@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/chat_widget"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/list_widget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_widget_margin"
+        android:background="@color/text_widget_color"
+        android:padding="@dimen/text_widget_padding"
+        android:textSize="@dimen/text_widget_size"
+        android:textStyle="bold"
+        android:fontFamily="serif-monospace"
+        android:textColor="#FFF" />
+</LinearLayout>
