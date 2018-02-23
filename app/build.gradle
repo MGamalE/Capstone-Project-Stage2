@@ -11,7 +11,7 @@ android {
         config {
             keyAlias 'chattingmekeystore'
             keyPassword '123456'
-            storeFile file('$rootDir/chattingme.jks')
+            storeFile file("$rootDir/chattingme.jks")
             storePassword '123456'
         }
     }
@@ -30,10 +30,9 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
-        debug {
             signingConfig signingConfigs.config
         }
+
     }
 }
 
